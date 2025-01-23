@@ -5,7 +5,7 @@ Um projeto desenvolvido para o desafio do curso Praticando Lógica de Programaç
 Este projeto é uma aplicação web que permite organizar um sorteio de amigo secreto de forma simples e divertida. Os usuários podem adicionar participantes e realizar o sorteio de forma aleatória.
 
 ## 🔗Meu Projeto
-Acesse a página web do projeto clicando no link abaixo:
+Acesse a página web do projeto clicando no link:
 [Visualizar o projeto](https://geovanigaldino.github.io/projeto-amigo-secreto/)
 
 ![Capa amigo secreto](assets/capa-amigo-secreto.jpeg)
