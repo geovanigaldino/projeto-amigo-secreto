@@ -42,5 +42,5 @@ Acesse a página web do projeto clicando no link abaixo:
 4. Clique no botão "Sortear" para realizar o sorteio
 5. O amigo secreto sorteado será exibido na tela
 
-Vídeo de demonstração: [Clique aqui para baixar o vídeo](caminho/do/seu-video.mp4)
+Vídeo de demonstração: [Clique aqui para baixar o vídeo](video/video-tutorial-amigo-secreto.mp4)
 
