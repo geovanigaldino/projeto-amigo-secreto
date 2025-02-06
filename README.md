@@ -17,7 +17,7 @@ Acesse a página web do projeto clicando no link:
 - Validação de nomes duplicados
 - Sorteio aleatório de um amigo secreto
 - Exibição do amigo sorteado na tela
-- 
+
 ## 🛠️ Tecnologias Utilizadas
 
 <div style="display: inline-block">
